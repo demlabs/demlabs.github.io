@@ -72,10 +72,10 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : 
+  facebook         : "https://facebook.com/demlabs"
   foursquare       :
-  github           :
+  github           : "https://github.com/demlabs"
   google_plus      :
   keybase          :
   instagram        :
@@ -86,11 +86,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/demlabs"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : ""https://youtube.com/demlabs""
 
 
 # Reading Files
