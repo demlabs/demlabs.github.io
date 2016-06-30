@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "DEM Labs"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "New Product Development for Engineers"
+description              : "Design | Engineering | Management"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
