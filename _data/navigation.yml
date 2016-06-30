@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Home"
     url: https://demlabs.github.io/minimal-mistakes/docs/quick-start-guide/
 
   - title: "About"
@@ -9,8 +9,11 @@ main:
   - title: "Blog"
     url: https://demlabs.github.io/minimal-mistakes/year-archive/
 
-  - title: "Sample Pages"
+  - title: "Mentors "
     url: https://demlabs.github.io/minimal-mistakes/page-archive/
 
-  - title: "Sample Collections"
+  - title: "Offerings"
+    url: https://demlabs.github.io/minimal-mistakes/collection-archive/
+  
+  - title: "Students"
     url: https://demlabs.github.io/minimal-mistakes/collection-archive/
