@@ -7,7 +7,7 @@ main:
     url: https://demlabs.github.io/about/
 
   - title: "Blog"
-    url: https://demlabs.github.io/minimal-mistakes/year-archive/
+    url: https://demlabs.github.io/year-archive/
 
   - title: "Mentors "
     url: https://demlabs.github.io/mentors/
