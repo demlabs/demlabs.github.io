@@ -3,7 +3,7 @@ layout: splash
 permalink: /home/
 date:
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#adff2f"
   overlay_image: mm-home-page-feature.jpg
   cta_label: "<i class='fa fa-download'></i> Explore Now"
   cta_url: "/for-students/"
