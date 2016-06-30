@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: https://demlabs.github.io/
+    url: /
 
   - title: "About"
     url: https://demlabs.github.io/about/
