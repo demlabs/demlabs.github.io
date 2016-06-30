@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "DEM Labs"
 title_separator          : "-"
-name                     : "New Product Development for Engineers"
+name                     : "DEM Labs, An Initiative from Vidyarthi Point."
 description              : "Design | Engineering | Management"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
