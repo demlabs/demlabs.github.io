@@ -8,13 +8,13 @@ header:
   cta_label: "<i class='fa fa-download'></i> Explore Now"
   cta_url: "/for-students/"
   caption:
-excerpt: 'A group of IITs/IISc/NITs alumni helping engineering students realize their true potential.<br /> <small>Currently at Version 3.2.12</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
+excerpt: 'A group of IITs/IISc/NITs alumni helping engineering students realize their true potential.<br /> <small>Currently offering short-term courses</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
-  - image_path: https://github.com/mmistakes/minimal-mistakes/blob/gh-pages/images/mm-customizable-feature.png
+  - image_path: https://mmistakes.github.io/minimal-mistakes/images/mm-customizable-feature.png
     alt: "customizable"
-    title: "Super Customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    title: "Free Weekly article"
+    excerpt: "We have a open blog policy, written by experts."
+    url: "/year-archive/"
     btn_label: "Learn More"
   - image_path: mm-responsive-feature.png
     alt: "fully responsive"
