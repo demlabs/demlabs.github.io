@@ -17,3 +17,6 @@ main:
   
   - title: "Students"
     url: https://demlabs.github.io/for-students/
+    
+  - title: "Test"
+    url: https://demlabs.github.io/test/
