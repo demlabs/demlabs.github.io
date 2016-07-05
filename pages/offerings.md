@@ -10,7 +10,7 @@ We are backed by experts from all walks of elite pedigree, be it industry or aca
 
 By the end of the workshop, every candidate is ready with a video showing their work. They can show it off to company people or create an online portfolio supporting their work. 
 
-We believe in the **three elements of a good candidate - KNOWLEDGE + SKILLS + ATTITUDE**. We plant the seed for all of them through the workshop and mentor them forward with special sessions and courses later.
+We believe in the **three elements of a good candidate - Attitude + Skills + Knowledge or ASK**. We plant the seed for all of them through the workshop and mentor them forward with special sessions and courses later. They develop these qualities and start to **ASK** the right questions.
 
 **Knowledge:** We impart the most practical, industry and research oriented knowledge base to the candidates which are difficult to impart in a regular classroom. Over-loaded teachers are not to blame as the world is fast moving and the duty of teachers ranges from teaching basics to exposure of advanced topics. 
 
