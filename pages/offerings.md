@@ -16,17 +16,20 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 
 **Skills:** Software and programming skills are a must for working in industry and research. We walk the students through a highly optimal process devised by experts to learn and use them in different case studies illustrated in the workshop.
 
-**Attitude:** The knowldge and process of learning imparted gives the students a good judgement on their capabilities and they can change their attitude from "This is too difficult to learn" to "If I can find the good resources and guidance, I can learn anything." This gives them an edge over others and they can implement it in major projects and internships. We keep a lot of free resources in this website too.
+**Attitude:** The knowldge and process of learning imparted gives the students a good judgement on their capabilities and they can change their attitude from "*This is too difficult to learn*" to "*If I can find the good resources and guidance, I can learn anything.*" This gives them an edge over others and they can implement it in major projects and internships. We keep a lot of free resources in this website too.
 
 ### New Product Development for Engineers
 **Syllabus:**
+
 > What is NPD?, What is PLM, Brainstorming, Biomimetics, Material design, Design for X, Prototyping
 
 ### Finite Element Analysis
 **Syllabus:**
+
 > What is FEM, Mathematics behind FEM, Nodes and elements, Meshing, Convergence, Pre- and post-processing, solvers, structural optimization, dynamic simulation
 
 ### Career Punch
+
 **Syllabus:**
 > Writing CV, CV Hacks, Information presentation, Industry and academia
 
