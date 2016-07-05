@@ -27,7 +27,7 @@ The growing number of these articles had become our main topic of discussion for
 
 ## Information about our parent company
 
-Vidyarthi Point (North East First Largest Student Community and Career Guidance Platform) is an educational organization which has been working in the field of career guidance for the last 7 years. The organization mainly focuses on helping students in all career related aspects like  choosing right career, career planning andamp; development etc in a systematic and scientific way. Besides it supports the students in leading a successful career by proper guidance and motivation. We provide students with information and knowledge about the choices before them, and assist them in making an informed decision. Our strong database of information and knowledge is backed up by constant research, thus providing students with the most up-to- date information possible.
+DEM Labs is a product offering from Vidyarthi Point. Vidyarthi Point (North East First Largest Student Community and Career Guidance Platform) is an educational organization which has been working in the field of career guidance for the last 7 years. The organization mainly focuses on helping students in all career related aspects like  choosing right career, career planning andamp; development etc in a systematic and scientific way. Besides it supports the students in leading a successful career by proper guidance and motivation. We provide students with information and knowledge about the choices before them, and assist them in making an informed decision. Our strong database of information and knowledge is backed up by constant research, thus providing students with the most up-to- date information possible.
 
 Our Vision and mission is to empower students to realize andamp; achieve their dreams through counselling, planning andamp; training. We also strive for success in providing the direction to our education seekers and help them to make perfect decision. We also provide professional services to students, parents and clients of similar trade about various schools, colleges, universities, professional institutes, distance learning courses and information about career opportunities and course fees.
 
@@ -38,7 +38,10 @@ We conduct events and seminars for the students about various subjects in variou
 
 > Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin . He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
 
-### Contact Us
+## Contact Us
 
 [**Email:** care.demlabs@gmail.com](mailto:care.demlabs@gmail.com)
+
 [**Facebook:**](mailto:care.demlabs@gmail.com)
+
+[**Quora:**](mailto:care.demlabs@gmail.com)
