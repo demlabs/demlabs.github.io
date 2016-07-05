@@ -25,7 +25,7 @@ Here goes the story:
 The growing number of these articles had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineer brothers and sisters would make us more than happy.
 
 
-### Information about our parent company
+## Information about our parent company
 
 Vidyarthi Point (North East First Largest Student Community and Career Guidance Platform) is an educational organization which has been working in the field of career guidance for the last 7 years. The organization mainly focuses on helping students in all career related aspects like  choosing right career, career planning andamp; development etc in a systematic and scientific way. Besides it supports the students in leading a successful career by proper guidance and motivation. We provide students with information and knowledge about the choices before them, and assist them in making an informed decision. Our strong database of information and knowledge is backed up by constant research, thus providing students with the most up-to- date information possible.
 
@@ -36,10 +36,9 @@ We conduct events and seminars for the students about various subjects in variou
 
 ### Information about Founder
 
-Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin . He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
+> Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin . He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
 
 ### Contact Us
 
-[care.demlabs@gmail.com](mailto:care.demlabs@gmail.com)
-
-This site is created using [JekyllNow](http://www.jekyllnow.com/)
+[**Email:** care.demlabs@gmail.com](mailto:care.demlabs@gmail.com)
+[**Facebook:**](mailto:care.demlabs@gmail.com)
