@@ -6,7 +6,24 @@ permalink: /about/
 
 We are a group of engineers from IITs/IISc/NITs and we want to complement your engineering education using our experiences.
 
-Check our [Trainers](https://demlabs.github.io/trainers/)
+## How and Why DEM-Labs? 
+
+Here goes the story:
+
+**Times of India:** *Over 80% of engineering graduates in India unemployable: Study.* [^1]
+
+**Economic Times:** *A million engineers in India struggling to get placed in an extremely challenging market.* [^2]
+
+**Youthkiawaaz:** *Why Is India Producing Unemployable Engineers?* [^3]
+
+[^1]: <http://timesofindia.indiatimes.com/tech/tech-news/Over- 80-of- engineering-graduates- in-India-unemployable- Study/articleshow/50704157.cms>
+
+[^2]: <http://economictimes.indiatimes.com/articleshow/20639539.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst>
+
+[^3]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
+
+The growing number of these articles had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineer brothers and sisters would make us more than happy.
+
 
 ### Information about our parent company
 
