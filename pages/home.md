@@ -13,12 +13,12 @@ feature_row:
   - image_path: https://mmistakes.github.io/minimal-mistakes/images/mm-customizable-feature.png
     alt: "customizable"
     title: "Free Weekly article"
-    excerpt: "We have a open blog policy, written by experts."
+    excerpt: "Your weekly dose, prescribed by experts."
     url: "/year-archive/"
-    btn_label: "Learn More"
+    btn_label: "Enlighten Me!"
   - image_path: https://mmistakes.github.io/minimal-mistakes/images/mm-responsive-feature.png
     alt: "fully responsive"
-    title: "Focused Trainings"
+    title: "Fully Customized Trainings"
     excerpt: "We collect student feedback before training and customize as per your needs."
     url: "/terms/"
     btn_label: "Learn More"
@@ -27,11 +27,11 @@ feature_row:
     title: "Training by Experts"
     excerpt: "Our trainers are awesome!"
     url: "/mentors/"
-    btn_label: "Learn More"
+    btn_label: "Meet them"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when we post in our blog &nbsp; [<i class="fa fa-twitter"></i> @demlabs](https://twitter.com/demlabs){: .btn .btn--twitter}'
+  - excerpt: 'Get notified when we post in our blog &nbsp; [<i class="fa fa-twitter"></i> @dem_labs](https://twitter.com/dem_labs){: .btn .btn--twitter}'
 ---
 
 {% include feature_row id="intro" type="center" %}
