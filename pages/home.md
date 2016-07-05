@@ -5,7 +5,7 @@ date: today
 header:
   overlay_color: "#1e90ff"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Explore Now"
+  cta_label: "<i class='fa fa-download'></i> Explore Free Resources"
   cta_url: "/for-students/"
   caption:
 excerpt: 'A group of IITs/IISc/NITs alumni helping engineering students realize their true potential.<br /> <small>Currently offering short-term courses</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=demlabs&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=demlabs&repo=workshop&type=star&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
@@ -20,7 +20,7 @@ feature_row:
     alt: "fully responsive"
     title: "Fully Customized Trainings"
     excerpt: "We collect student feedback before training and customize as per your needs."
-    url: "/terms/"
+    url: "/offerings/"
     btn_label: "Learn More"
   - image_path: https://mmistakes.github.io/minimal-mistakes/images/mm-free-feature.png
     alt: "100% free"
