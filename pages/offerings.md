@@ -8,7 +8,9 @@ We offer courses on new product development using computational tools such as fi
 
 We are backed by experts from all walks of elite pedigree, be it industry or academia. 
 
-By the end of the workshop, every candidate is ready with a video showing their work. They can show it off to company people or create an online portfolio supporting their work. 
+By the end of the workshop, every candidate is ready with a video showing their work. They can show it off to company people or create an online portfolio supporting their work.
+
+## Asking the Right Questions
 
 We believe in the **three elements of a good candidate - Attitude + Skills + Knowledge or ASK**. We plant the seed for all of them through the workshop and mentor them forward with special sessions and courses later. They develop these qualities and start to **ASK** the right questions.
 
@@ -17,6 +19,8 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 **Skills:** Software and programming skills are a must for working in industry and research. We walk the students through a highly optimal process devised by experts to learn and use them in different case studies illustrated in the workshop.
 
 **Attitude:** The knowldge and process of learning imparted gives the students a good judgement on their capabilities and they can change their attitude from "*This is too difficult to learn*" to "*If I can find the good resources and guidance, I can learn anything.*" This gives them an edge over others and they can implement it in major projects and internships. We keep a lot of free resources in this website too.
+
+## Courses
 
 ### New Product Development for Engineers
 **Syllabus:**
@@ -33,3 +37,6 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 **Syllabus:**
 > Writing CV, CV Hacks, Information presentation, Industry and academia
 
+### Final Lines
+
+Try it to feel it. A demo presentation is available here.
