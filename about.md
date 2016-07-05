@@ -36,7 +36,11 @@ We conduct events and seminars for the students about various subjects in variou
 
 ### Information about Founder
 
-> Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin . He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
+> Mr. Arup Kumar Deka, BSc(Physics), MA(Economics), LLB(2010)
+
+![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin. 
+
+He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
 
 ## Contact Us
 
