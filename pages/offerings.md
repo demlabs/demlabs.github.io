@@ -35,8 +35,8 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 ### Career Punch
 **Syllabus:**
 
-> Writing CV, CV Hacks, Information presentation, Industry and academia
+> CV Hacks, Industrial and academic CV, resume and CV
 
-### Final Lines
+## Final Lines
 
-Try it to feel it. A demo presentation is available here.
+A demo presentation is available here.
