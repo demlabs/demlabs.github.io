@@ -33,8 +33,8 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 > What is FEM, Mathematics behind FEM, Nodes and elements, Meshing, Convergence, Pre- and post-processing, solvers, structural optimization, dynamic simulation
 
 ### Career Punch
-
 **Syllabus:**
+
 > Writing CV, CV Hacks, Information presentation, Industry and academia
 
 ### Final Lines
