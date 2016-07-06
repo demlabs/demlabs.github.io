@@ -8,7 +8,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Explore Free Resources"
   cta_url: "/for-students/"
   caption:
-excerpt: 'A group of IITs/IISc/NITs alumni helping engineering students realize their true potential.<br /> <small>Currently offering short-term courses</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=demlabs&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe> <div class="fb-follow" data-href="https://www.facebook.com/DEM-Labs-1759787887567113/" data-width="200" data-height="30" data-layout="button" data-show-faces="true"></div></iframe>{:/nomarkdown}'
+excerpt: 'A group of IITs/IISc/NITs alumni helping engineering students realize their true potential.<br /> <small>Currently offering short-term courses</small><br /><br /> {::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=demlabs&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://www.facebook.com/DEM-Labs-1759787887567113/" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 feature_row:
   - image_path: https://mmistakes.github.io/minimal-mistakes/images/mm-customizable-feature.png
     alt: "customizable"
