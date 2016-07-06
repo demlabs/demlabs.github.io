@@ -5,7 +5,12 @@ header:
 categories: 
   - general
 tags:
-  - update
+  - blog
 ---
 
-This is a test post.
+Welcome to our blog.
+
+Thanks to amazing [Michael Rose](https://github.com/mmistakes/), our blog is up and running.
+
+Regards,
+DEM Labs Team
