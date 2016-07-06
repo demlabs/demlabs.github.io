@@ -6,26 +6,26 @@ permalink: /mentors/
 
 We depend on highly educated and experienced experts to produce content and deliver our workshops and training programs. They are from different pedigree and walks of life.
 
-## Ikbal Chadhuri
+## Ikbal Choudhury
 
-He is killer.
+Joining John Hopkins University as a PhD student. BTech(Mech) from NIT Silchar.
 
-![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Ikbal loves tinkering with new ideas and finding solutions to problems.
 
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+Ikbal joined IIT Delhi as a Research Associate shortly after his undergraduate. He was the winner of JeDi UG Engineering project challenge in the year of 2014. He has worked extensively on biomedical engineering research and published 2 journal and 3 conference papers. Ikbal shares his knowledge on bio-research, experimental research, and design thinking as a mentor.
 
-## Stuti Borgohain
+## Dr Stuti Borgohain
 
-He is killer.
+Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
 
-![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} Stuti shares her passion for research with undergraduates.
 
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor.
 
-## Danny Boyle
+## IT Manivarma 
 
-He is killer.
+Designer at 3M India Labs. MDes(Product Design and Engineering) from IISc Bangalore
 
-![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Manivarma is a storyteller.
 
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+Design is his passion and he lives and brethes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products.
