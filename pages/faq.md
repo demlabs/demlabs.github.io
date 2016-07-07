@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Terms and Conditions
+title: Frequently Asked Questions
 permalink: /terms/
 ---
 
