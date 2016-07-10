@@ -16,7 +16,9 @@ C/O - Arup Kumar Deka
 
 +91-73990-01009
 
-**Contact using the form below**
+**Contact using the form below:**
+
+Using this form will result in a mail to our primary email address.
 
 {::nomarkdown}<form action="https://formspree.io/care.demlabs@gmail.com"
       method="POST">
