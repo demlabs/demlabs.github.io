@@ -4,8 +4,11 @@ title: Free Resources for Students
 permalink: /for-students/
 ---
 
-##Lorem ipsum dolor 
+## Be our Dark Knight
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+According to legend, the Night'ss Watch was founded in the Game of Thrones. They now protect the fraternity of Engineers from threats, such as ignorance, lack of interest and opportunity,boring syllabus, lack of emphasis on practical or research knowledge and last but not the least “the race” for job.
 
-sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+They man a huge family of unfocused species known as the Engineers, residing within the safe walls of their big castles known as Engg. Colleges. They also regulate and circulate resources and news from the DEM-labs, from which they obtain regular free guidance, information material, knowledge-ware and other provisions. This privilege can be claimed by any enthusiast who sworns in the [sacred oath][https://demlabs.github.io/dark-knights/]to safeguard the engineering fraternity till his last breathe.
+
+## Free Resources
+Loren ipsum dolor sit amet Loren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit ametLoren ipsum dolor sit amet
