@@ -4,7 +4,7 @@ title: Our Experts
 permalink: /mentors/
 ---
 
-We depend on highly educated and experienced experts to produce content and deliver our workshops and training programs. They are from different pedigree and walks of life.
+We depend on highly educated and experienced experts to produce content and deliver our workshops and training programs. They help us prepare our contents and use their valuable insights to guide the trainees.
 
 ## Ikbal Choudhury
 
@@ -22,10 +22,10 @@ Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati Univ
 
 Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor.
 
-## IT Manivarma 
+## I Mani
 
-Designer at 3M India Labs. MDes(Product Design and Engineering) from IISc Bangalore
+Designer at India Labs. MDes(Product Design and Engineering) from IISc Bangalore
 
 ![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Manivarma is a storyteller.
 
-Design is his passion and he lives and brethes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products.
+Design is his passion and he lives and breathes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products.
