@@ -20,4 +20,7 @@ C/O - Arup Kumar Deka
     <input type="text" name="name">
     <input type="email" name="_replyto">
     <input type="submit" value="Send">
+    <input type="hidden" name="_next" value="https://demlabs.github.io/for-students/" />
+    <input type="hidden" name="_subject" value="New submission!" />
 </form>{:/nomarkdown}
+
