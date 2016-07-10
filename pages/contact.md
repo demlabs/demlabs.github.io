@@ -9,6 +9,7 @@ The most preferred way to contact us is in our primary email address: [care.deml
 **Office Address:**
 
 C/O - Arup Kumar Deka
+
 1st Floor, Borah Market, Behind S.K. Hazarika College,Near State Zoo, RGB Road, Guwahati (Assam), Pin-781005
 
 **Mobile Number:**
@@ -17,10 +18,16 @@ C/O - Arup Kumar Deka
 
 {::nomarkdown}<form action="https://formspree.io/care.demlabs@gmail.com"
       method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
+      <form id="contactform" method="POST">
+    <input type="text" name="name" placeholder="Your name">
+    <input type="email" name="_replyto" placeholder="Your email">
+    <input type="hidden" name="_subject" value="Website contact" />
+    <textarea name="message" placeholder="Your message"></textarea>
+    <input type="text" name="_gotcha" style="display:none" />
     <input type="submit" value="Send">
-    <input type="hidden" name="_next" value="https://demlabs.github.io/for-students/" />
-    <input type="hidden" name="_subject" value="New submission!" />
-</form>{:/nomarkdown}
+</form>
+<script>
+    var contactform =  document.getElementById('contactform');
+    contactform.setAttribute('action', '//formspree.io/' + 'your' + '@' + 'email' + '.' + 'com');
+</script>{:/nomarkdown}
 
