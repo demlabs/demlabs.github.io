@@ -25,4 +25,7 @@ Can I get a discount?
 > Yes, if you help us organize a workshop in your institution. Else, you can apply to become a school manager and you can attend all our workshops for free provided you can travel to the venue.
 
 What if I am not satisfied with your workshop?
+
 > We will refund, no questions asked. But you will miss out the opportunity to continue working with our awesome mentors and get help in different aspects of projects and career.
+
+
