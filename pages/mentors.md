@@ -6,7 +6,9 @@ permalink: /mentors/
 
 We depend on highly educated and experienced experts to produce content and deliver our workshops and training programs. They help us prepare our contents and use their valuable insights to guide the trainees.
 
->*Disclaimer: Our mentors are not our employees. They help us purely out of their own interest in helping engineering students and don't accept payment.*
+###### Disclaimer: 
+
+> Our mentors are not our employees. They help us purely out of their own interest in helping engineering students and don't accept any payment.
 
 ## Ikbal Choudhury
 
