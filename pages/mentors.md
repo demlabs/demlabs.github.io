@@ -34,26 +34,26 @@ Designer at India Labs. MDes(Product Design and Engineering) from IISc Bangalore
 
 Design is his passion and he lives and breathes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products.
 
-## Dr Stuti Borgohain
+## Harish Borah
 
 Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
 
-![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} Stuti shares her passion for research with undergraduates.
+![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
-Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor.
+Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
 ## I Mani
 
 Designer at India Labs. MDes(Product Design and Engineering) from IISc Bangalore
 
-![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Manivarma is a storyteller.
+![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
-Design is his passion and he lives and breathes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products.
+Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
-## Dr Stuti Borgohain
+## V Kumar
 
-Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
+Entrepreneur-in-Residence at Design Innovation Center, IISc Bangalore, MDes(Product Design and Engineering) from IISc Bangalore
 
-![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} Stuti shares her passion for research with undergraduates.
+![image-right](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-right} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
-Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor.
+Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
