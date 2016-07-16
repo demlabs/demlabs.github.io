@@ -23,38 +23,38 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 ## Courses
 
 ### Design Thinking and New Product Development for Engineers
-**Syllabus:**
+#### Syllabus:
 
-> What is NPD?, What is PLM, Brainstorming, Biomimetics, Material design, Design for X, Prototyping
+> Why this workshop, What is NPD & design thinking, good and bad designs, PLM, NPD process flow, problem definition generation, asking 5 whys, teamwork, searching for information, concept generation, brainstorming, TRIZ, techniques of idea generation, refining ideas, quantitative concept selection methods, psychological biases, embodiment design, design for X, ergonomics and aesthetics, detailed design, modeling and simulation, optimization, materials selection, design for materials, design for manufacturing, risk and reliability, design for safety, robust design, quality, cost evaluation, ethics and economics of design, sustainability, computational tools in design, computer aided engineering(CAD/CAM/FEA/CFD/Automation), importance of automation and programming, importance of statistical methods, DFSS and DFMEA, design of experiments, learning approach for computational tools, undergraduate and postgraduate research, publishing papers, filing patents
 
 **Intended audience**
 
 > BTech/MTech students in mechanical/civil/electrical/electronics/production engineering
 
 ### Finite Element Analysis
-**Syllabus:**
+#### Syllabus:
 
 > What is FEM, mathematics behind FEM, nodes and elements, meshing with 1D/2D/3D elements, element quality, convergence, pre- and post-processing, solvers, static analysis, modal analysis, nonlinear analysis, topology optimization, shape optimization, size optimization, crash analysis
 
-**Intended audience**
+#### Intended audience:
 
 > BTech/MTech students in mechanical/civil engineering
 
 ### Computational Fluid Dynamics
-**Syllabus:**
+#### Syllabus:
 
 > What is CFD, mathematics behind CFD, nodes and elements, meshing with 1D/2D/3D elements, element quality, convergence, pre- and post-processing, solvers, 1D/2D/3D simulation, steady-state simulation, OpenFoam
 
-**Intended audience**
+#### Intended audience:
 
 > BTech/MTech students in mechanical/civil engineering
 
 ### Career Punch
-**Syllabus:**
+#### Syllabus:
 
 > CV hacks, industrial and academic CV, resume and CV, aptitude tests, internships, software learning
 
-**Intended audience**
+#### Intended audience
 
 > BTech/MTech students in any engineering stream
 
