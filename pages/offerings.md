@@ -22,7 +22,7 @@ We believe in the **three elements of a good candidate - Attitude + Skills + Kno
 
 ## Courses
 
-### Design Thinking and New Product Development for Engineers
+### Design Thinking Bootcamp for Engineers
 
 The syllabus is given below. Demo of processes along with audience participation will be demonstrated. This workshop is delivered by mentors who has experience in developing multiple products, publishing papers, and filing patents.
 
@@ -30,11 +30,11 @@ The syllabus is given below. Demo of processes along with audience participation
 
 > Why this workshop, What is NPD & design thinking, good and bad designs, PLM, NPD process flow, problem definition generation, asking 5 whys, teamwork, searching for information, concept generation, brainstorming, TRIZ, techniques of idea generation, refining ideas, prototyping, quantitative concept selection methods, psychological biases, embodiment design, design for X, ergonomics and aesthetics, detailed design, modeling and simulation, optimization, materials selection, design for materials, design for manufacturing, risk and reliability, design for safety, robust design, quality, cost evaluation, ethics and economics of design, sustainability, computational tools in design, computer aided engineering(CAD/CAM/FEA/CFD/Automation), importance of automation and programming, importance of statistical methods, DFSS and DFMEA, design of experiments, learning approach for computational tools, presentation and visualization tools, undergraduate and postgraduate research, publishing papers, filing patents. 
 
-###### Intended audience**
+###### Intended audience
 
 > BTech/MTech students in mechanical/civil/electrical/electronics/production engineering
 
-### Finite Element Analysis
+### Practical Finite Element Analysis Bootcamp
 
 ###### Syllabus:
 
@@ -44,7 +44,7 @@ The syllabus is given below. Demo of processes along with audience participation
 
 > BTech/MTech students in mechanical/civil engineering
 
-### Computational Fluid Dynamics
+### Practical Computational Fluid Dynamics Bootcamp
 
 ###### Syllabus:
 
