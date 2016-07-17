@@ -8,7 +8,7 @@ tags:
   - blog
 ---
 
-This is a list of mechanical engineering resources compiled by github user [m2n037](https://github.com/m2n037/). The list is here - [awesome mechanical engineering resources](https://github.com/m2n037/awesome-mecheng).
+This is a list of mechanical engineering resources compiled by github user [@m2n037](https://github.com/m2n037/). The list is here - [awesome mechanical engineering resources](https://github.com/m2n037/awesome-mecheng).
 
 Regards,
 
