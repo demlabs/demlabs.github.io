@@ -34,9 +34,7 @@ Our Vision and mission is to empower students to realize and achieve their dream
 
 ## Information about Founder
 
-**Arup Kumar Deka**
-
-[LinkedIn](https://in.linkedin.com/in/arup-kumar-deka-8a599297) [Facebook](https://www.facebook.com/arupkumar.deka.391/)
+**Arup Kumar Deka** [ [LinkedIn](https://in.linkedin.com/in/arup-kumar-deka-8a599297) [Facebook](https://www.facebook.com/arupkumar.deka.391/) ]
 
 ![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin. 
 
