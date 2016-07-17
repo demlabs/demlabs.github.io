@@ -32,11 +32,11 @@ DEM Labs is a product offering from Vidyarthi Point. [Vidyarthi Point](http://vi
 Our Vision and mission is to empower students to realize and achieve their dreams through counselling, planning and training. We also strive for success in providing the direction to our education seekers and help them to make perfect decision. We also provide professional services to students, parents and clients of similar trade about various schools, colleges, universities, professional institutes, distance learning courses and information about career opportunities and course fees. We also conduct events and seminars for the students about various subjects in various schools, colleges and academic institutes in regular basis.
 
 
-### Information about Founder
+## Information about Founder
 
 **Arup Kumar Deka**
 
-[LinkedIn](https://in.linkedin.com/in/arup-kumar-deka-8a599297) | [Facebook](https://www.facebook.com/arupkumar.deka.391/)
+[LinkedIn](https://in.linkedin.com/in/arup-kumar-deka-8a599297) [Facebook](https://www.facebook.com/arupkumar.deka.391/)
 
 ![image-left](http://www.tutorialboard.net/wp-content/uploads/2009/03/facebook-icon-150x150.png){: .align-left} Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin. 
 
