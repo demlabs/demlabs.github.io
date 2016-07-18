@@ -4,13 +4,11 @@ title: About
 permalink: /about/
 ---
 
-We are a group of engineers from IITs/IISc/NITs and we want to complement your engineering education using our experiences.
+We are a group of engineers from IITs/IISc/NITs and esteemed organizations and we want to complement your engineering education using our experiences.
 
 ## The Story of DEM Labs
 
 ### What is the issue?
-
-Here goes the story:
 
 **India Today:** *Only 7 per cent engineering graduates employable: What's wrong with India's engineers?* [^1]
 
@@ -28,7 +26,7 @@ Here goes the story:
 
 [^4]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
 
-An employability-focused study based on 150,000 engineering students who graduated in 2013([Report in PDF](http://www.aspiringminds.com/sites/default/files/National%20Employability%20Report%20-%20Engineers%20Annual%20Report%202016.pdf)), conducted by Aspiring Minds, A New Delhi-based employment solutions company, found some shocking stats.
+These news reports are not all gimmicks, infact they are based on an employability-focused study based on 150,000 engineering students who graduated in 2013([Report in PDF](http://www.aspiringminds.com/sites/default/files/National%20Employability%20Report%20-%20Engineers%20Annual%20Report%202016.pdf)), conducted by [Aspiring Minds](http://www.aspiringminds.com/), A New Delhi-based employment solutions company. This survey resulted in some shocking stats.
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/1_071316033903.jpg){: .align-center}
 
