@@ -34,13 +34,19 @@ As many as 97 per cent of graduating engineers want jobs either in software engi
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/8_071316033903.jpg){: .align-center}
 
-A big part of this can be solved by increasing industry-academia interaction which is not always easy given the 
+The growing number of these findings had become our main topic of discussion for last several years. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineering students would make us more than happy.
+
+Brainstorming about these issues tell us that, many of these issues can be solved by increasing industry-academia interactions which is not always easy given the 
 
 - bureaucratic nature to achieve and implement such memoranda of understanding
 - lack of enthusiasm from companies to amalgamate with anything other than top-tier engineering colleges
 - lack of local opportunites in many engineering institutions
 
-The growing number of these findings had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineering students would make us more than happy.
+### How we are solving these issues
+
+- We don't have a long list of requirements and understandings. Once the institutions agree, our collaborators sign an MoU, take a pre-survey, and deliver the required training within a month or so after negotiating for time with the experts.
+- We don't care about your reputations. Many of our experts come from unknown colleges and has achieved excellence through hard work, grabbing opportunities, and appropriate guidance.
+- We have local collaborators in many different states(and growing). We bring the best of elite institutions and esteemed organizations to your doorstep through out panel of experts.
 
 ![image-center](http://www.aspiringminds.com/sites/default/files/new%20collage%20copy_0.jpg){: .align-center}
 
