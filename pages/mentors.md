@@ -18,6 +18,8 @@ Joining John Hopkins University as a PhD student. Past RA at IIT Delhi. BTech(Me
 
 Ikbal joined IIT Delhi as a Research Associate shortly after his undergraduate. He was the winner of JeDi UG Engineering project challenge in the year of 2014. He has worked extensively on biomedical engineering research and published 2 journal and 3 conference papers. Ikbal shares his knowledge on bio-research, experimental research, and design thinking as a mentor. Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
+
 ## Dr Stuti Borgohain
 
 Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
@@ -26,6 +28,8 @@ Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati Univ
 
 Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor. Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
+
 ## Naeem Khan
 
 Senior Engineer at General Motors. MS by Research(Aero) from IIT Madras
@@ -33,6 +37,8 @@ Senior Engineer at General Motors. MS by Research(Aero) from IIT Madras
 ![image-left](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-left} Manivarma is a storyteller.
 
 Design is his passion and he lives and breathes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products. Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
+
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
 
 ## Harish Borah
 
@@ -43,6 +49,8 @@ MSc (Commercial Project Management) from The University of Manchester
 
 Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
+
 ## Sailesh Kolachana
 
 Joining UoM as MBA candidate. Past Senior Engineer at General Motors. MTech/BTech(Integrated/Engineering Design - Mechanical Engineering) from IIT Madras
@@ -51,6 +59,8 @@ Joining UoM as MBA candidate. Past Senior Engineer at General Motors. MTech/BTec
 
 Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
+
 ## V Kumar
 
 Entrepreneur-in-Residence at Design Innovation Center, IISc Bangalore, MDes(Product Design and Engineering) from IISc Bangalore
@@ -58,3 +68,5 @@ Entrepreneur-in-Residence at Design Innovation Center, IISc Bangalore, MDes(Prod
 ![image-right](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-right} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
 Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
+
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
