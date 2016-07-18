@@ -26,7 +26,7 @@ Here goes the story:
 
 [^4]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
 
-An [employability-focused study based on 150,000 engineering students who graduated in 2013](http://www.aspiringminds.com/sites/default/files/National%20Employability%20Report%20-%20Engineers%20Annual%20Report%202016.pdf), conducted by Aspiring Minds, A New Delhi-based employment solutions company, found some shocking stats.
+An employability-focused study based on 150,000 engineering students who graduated in 2013([Report in PDF](http://www.aspiringminds.com/sites/default/files/National%20Employability%20Report%20-%20Engineers%20Annual%20Report%202016.pdf)), conducted by Aspiring Minds, A New Delhi-based employment solutions company, found some shocking stats.
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/6_071316033903.jpg){: .align-center}
 
@@ -34,7 +34,11 @@ As many as 97 per cent of graduating engineers want jobs either in software engi
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/8_071316033903.jpg){: .align-center}
 
-A big part of this can be solved by increasing industry-academia interaction which is not always easy given the *bureaucratic nature of such memoranda, lack of enthusiasm from companies to amalgamate with anything other than top-tier engineering colleges, and lack of local opportunites in many engineering institutions*.
+A big part of this can be solved by increasing industry-academia interaction which is not always easy given the 
+
+- bureaucratic nature to achieve and implement such memoranda of understanding
+- lack of enthusiasm from companies to amalgamate with anything other than top-tier engineering colleges
+- lack of local opportunites in many engineering institutions
 
 The growing number of these findings had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineering students would make us more than happy.
 
