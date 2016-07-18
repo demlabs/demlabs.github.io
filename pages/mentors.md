@@ -12,7 +12,7 @@ We depend on highly educated and experienced experts to produce content and deli
 
 ## Ikbal Choudhury
 
-Joining John Hopkins University as a PhD student. BTech(Mech) from NIT Silchar.
+Joining John Hopkins University as a PhD student. Past RA at IIT Delhi. BTech(Mech) from NIT Silchar.
 
 ![image-left](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-left} Ikbal loves tinkering with new ideas and finding solutions to problems.
 
@@ -26,9 +26,9 @@ Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati Univ
 
 Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor. Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
-## I Mani
+## Naeem Khan
 
-Designer at India Labs. MDes(Product Design and Engineering) from IISc Bangalore
+Senior Engineer at General Motors. MS by Research(Aero) from IIT Madras
 
 ![image-left](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-left} Manivarma is a storyteller.
 
@@ -36,15 +36,16 @@ Design is his passion and he lives and breathes design. Only God(aka Sachin Rame
 
 ## Harish Borah
 
-Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
+Built Asset Whole Life Cycle Consultant at ADW Developments
+MSc (Commercial Project Management) from The University of Manchester
 
 ![image-right](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-right} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
 Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
 
-## I Mani
+## Sailesh Kolachana
 
-Designer at India Labs. MDes(Product Design and Engineering) from IISc Bangalore
+Joining UoM as MBA candidate. Past Senior Engineer at General Motors. MTech/BTech(Integrated/Engineering Design - Mechanical Engineering) from IIT Madras
 
 ![image-left](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-left} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
 
