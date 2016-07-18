@@ -6,7 +6,9 @@ permalink: /about/
 
 We are a group of engineers from IITs/IISc/NITs and we want to complement your engineering education using our experiences.
 
-## How and Why DEM-Labs? 
+## The Story of DEM Labs
+
+### What is the issue?
 
 Here goes the story:
 
