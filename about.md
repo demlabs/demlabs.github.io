@@ -26,9 +26,13 @@ Here goes the story:
 
 [^4]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
 
-![image-centre](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-centre}
+![image-center](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-center}
 
 The growing number of these articles had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineering students would make us more than happy.
+
+![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/6_071316033903.jpg){: .align-center}
+
+![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/8_071316033903.jpg){: .align-center}
 
 A big part of this can be solved by increasing industry-academia interaction which is not always easy given the bureaucratic nature of such memoranda, lack of enthusiasm from companies to amalgamate with anything other than top-tier engineering colleges, and lack of local opportunites in many engineering institutions.
 
