@@ -18,6 +18,9 @@ main:
   - title: "Students"
     url: https://demlabs.github.io/for-students/
     
+  - title: "Gallery"
+    url: https://demlabs.github.io/gallery/
+    
   - title: "FAQ"
     url: https://demlabs.github.io/terms/
     
