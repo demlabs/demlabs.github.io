@@ -40,6 +40,16 @@ Design is his passion and he lives and breathes design. Only God(aka Sachin Rame
 
 [LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
 
+## Amardeep Singh
+
+Director - Simuli Engineering Solution Pvt Ltd. MSs(Engg) in FEA from IISc Bangalore
+
+![image-left](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-left} Manivarma is a storyteller.
+
+Design is his passion and he lives and breathes design. Only God(aka Sachin Ramesh Tendulkar) can take his mind away from telling stories of products. Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
+
+[LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
+
 ## Harish Borah
 
 Built Asset Whole Life Cycle Consultant at ADW Developments
