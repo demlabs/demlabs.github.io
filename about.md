@@ -32,7 +32,14 @@ An employability-focused study based on 150,000 engineering students who graduat
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/1_071316033903.jpg){: .align-center}
 
-As many as 97 per cent of graduating engineers want jobs either in software engineering or core engineering. However, only 3 per cent have suitable skills to be employed in software or product market, and only 7 per cent can handle core engineering tasks.
+Why this happens? What is root cause of these issues? Is our engineering education so bad or there are other issues cripling the not-so-top-tier engineering colleges? Since the engineering syllabus of all colleges are the same, why such stark differences are observed. 
+
+We went deep into these:
+
+- Low-tier engineering colleges don't have the appropriate level of industry interaction
+- They don't have the support of a diverse alumni network
+- They don't have the government aided infrastructure to provide extraordinary facilities such as IISc/IITs
+- Industries want to play it safe and interact with only the top-tier institutions
 
 ![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/8_071316033903.jpg){: .align-center}
 
@@ -46,9 +53,10 @@ Brainstorming about these issues tell us that, many of these issues can be solve
 
 ### How we are solving these issues
 
-- We don't have a long list of requirements and understandings. Once the institutions agree, our collaborators sign an MoU, take a pre-survey, and deliver the required training within a month or so after negotiating for time with the experts.
-- We don't care about your reputations. Many of our experts come from unknown colleges and has achieved excellence through hard work, grabbing opportunities, and appropriate guidance.
+- We don't have a long list of requirements and understandings in order to collaborate. Once the institutions agree, our collaborators sign an MoU, take a pre-survey, and deliver the required training within a month or so after negotiating for time with the experts. The one and only roadblock is getting the time from our experts.
+- We don't care about your reputations. Many of our experts come from unknown institutions and has achieved excellence through hard work, grabbing opportunities, and appropriate guidance.
 - We have local collaborators in many different states(and growing). We bring the best of elite institutions and esteemed organizations to your doorstep through out panel of experts.
+- We are providing these expertise which helps the students emulate the behavior, work ethics, and resourcefullness of our mentors. They indirectly becomes the guiding support and complement the academic know-how already provided by the faculty.
 
 ![image-center](http://www.aspiringminds.com/sites/default/files/new%20collage%20copy_0.jpg){: .align-center}
 
