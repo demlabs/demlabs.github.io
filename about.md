@@ -30,7 +30,7 @@ Here goes the story:
 
 An employability-focused study based on 150,000 engineering students who graduated in 2013([Report in PDF](http://www.aspiringminds.com/sites/default/files/National%20Employability%20Report%20-%20Engineers%20Annual%20Report%202016.pdf)), conducted by Aspiring Minds, A New Delhi-based employment solutions company, found some shocking stats.
 
-![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/6_071316033903.jpg){: .align-center}
+![image-center](http://media2.intoday.in/indiatoday/images/stories//2016July/1_071316033903.jpg){: .align-center}
 
 As many as 97 per cent of graduating engineers want jobs either in software engineering or core engineering. However, only 3 per cent have suitable skills to be employed in software or product market, and only 7 per cent can handle core engineering tasks.
 
