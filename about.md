@@ -10,19 +10,27 @@ We are a group of engineers from IITs/IISc/NITs and we want to complement your e
 
 Here goes the story:
 
-**Times of India:** *Over 80% of engineering graduates in India unemployable: Study.* [^1]
+** India Today:** *Only 7 per cent engineering graduates employable: What's wrong with India's engineers?* [^1]
 
-**Economic Times:** *A million engineers in India struggling to get placed in an extremely challenging market.* [^2]
+**Times of India:** *Over 80% of engineering graduates in India unemployable: Study.* [^2]
 
-**Youth ki awaaz:** *Why Is India Producing Unemployable Engineers?* [^3]
+**Economic Times:** *A million engineers in India struggling to get placed in an extremely challenging market.* [^3]
 
-[^1]: <http://timesofindia.indiatimes.com/tech/tech-news/Over- 80-of- engineering-graduates- in-India-unemployable- Study/articleshow/50704157.cms>
+**Youth ki awaaz:** *Why Is India Producing Unemployable Engineers?* [^4]
 
-[^2]: <http://economictimes.indiatimes.com/articleshow/20639539.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst>
+[^1]: <http://indiatoday.intoday.in/education/story/engineering-employment-problems/1/713827.html>
 
-[^3]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
+[^2]: <http://timesofindia.indiatimes.com/tech/tech-news/Over- 80-of- engineering-graduates- in-India-unemployable- Study/articleshow/50704157.cms>
 
-The growing number of these articles had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineer brothers and sisters would make us more than happy.
+[^3]: <http://economictimes.indiatimes.com/articleshow/20639539.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst>
+
+[^4]: <http://www.youthkiawaaz.com/2015/08/employability-of- engineers-in- india/>
+
+![image-centre](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-centre}
+
+The growing number of these articles had become our main topic of discussion for almost an year now. Wherever and whenever we sat together we would end up discussing and debating over the same topic. During one such session we unanimously stumbled upon this idea of Design Engineering and Management Lab(DEM Lab). Any contribution which we can make to help our engineering students would make us more than happy.
+
+A big part of this can be solved by increasing industry-academia interaction which is not always easy given the bureaucratic nature of such memoranda, lack of enthusiasm from companies to amalgamate with anything other than top-tier engineering colleges, and lack of local opportunites in many engineering institutions.
 
 
 ## Information about our parent company
