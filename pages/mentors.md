@@ -20,6 +20,14 @@ Ikbal joined IIT Delhi as a Research Associate shortly after his undergraduate. 
 
 [LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://in.linkedin.com/in/naeemkhan88)
 
+## Lalit Singhal
+
+Senior UI/UX architect at BST Global(USA), Past Senior Designer at General Motors. MDes(Product Design and Engineering) from IISc Bangalore.
+
+![image-right](http://theawesomer.com/photos/2010/06/060410_Facebook_profile_pic_1.jpg){: .align-right} Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text 
+
+Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text Loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text loren ipsum dolor amet dummy text
+
 ## Dr Stuti Borgohain
 
 Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
