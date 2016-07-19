@@ -35,7 +35,7 @@ The syllabus is given below. Demo of processes along with audience participation
 > BTech/MTech students in mechanical/civil/electrical/electronics/production engineering, BDes/MDes students, BArch/MArch students
 
 ###### Course duration
-> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or 16 hours.
+> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or expanded to 16 hours.
 
 
 ### Practical Finite Element Analysis Bootcamp
@@ -49,7 +49,7 @@ The syllabus is given below. Demo of processes along with audience participation
 > BTech/MTech students in mechanical/civil engineering
 
 ###### Course duration
-> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or 16 hours.
+> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or expanded to 16 hours.
 
 ### Practical Computational Fluid Dynamics Bootcamp
 
@@ -62,7 +62,7 @@ The syllabus is given below. Demo of processes along with audience participation
 > BTech/MTech students in mechanical/civil engineering
 
 ###### Course duration
-> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or 16 hours.
+> 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or expanded to 16 hours.
 
 ### Career Punch
 
