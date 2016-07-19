@@ -77,12 +77,16 @@ The syllabus is given below. Demo of processes along with audience participation
 ###### Course duration
 > 2-4 hours. 
 
-## On-Demand courses
+## Upcoming Courses
 
 ### Multibody Dynamics (with tool training)
 
 Details of this course will be available shortly.
 
 ### Control Engineering (with tool training)
+
+Details of this course will be available shortly.
+
+### Scripting with Excel VBA/Bash/Python
 
 Details of this course will be available shortly.
