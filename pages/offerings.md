@@ -90,3 +90,12 @@ Details of this course will be available shortly.
 ### Scripting with Excel VBA/Bash/Python
 
 Details of this course will be available shortly.
+
+## Internships/Project Assistance
+
+We are planning to offer summer/winter internships for students as well as assistance in carrying out major/final year projects. This will constitute of rigorous research and problem solving with assistance from multiple mentors. Some salient features of this will be
+- Rigorous tool training
+- Research with collaboration
+- Techniques of research
+
+The only condition will be to include the name of our mentors in any reseacrh report/paper published on successful completion of the project.
