@@ -34,7 +34,7 @@ Lalit joined IISc as an MDes student after working 2 years post his undergraduat
 
 Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
 
-![image-right](/images/mentor_stuti.jpg){: .align-right} Stuti works with pura mathematics and loves rigorous proofs.
+![image-left](/images/mentor_stuti.jpg){: .align-left} Stuti works with pura mathematics and loves rigorous proofs.
 
 Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor. Her extensive experience in rigorous academic research is unparalleled and she takes care of our perspectives on how to do research and be productive.
 
@@ -44,7 +44,7 @@ Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis
 
 Senior Engineer at General Motors. MS by Research(Aero) from IIT Madras
 
-![image-left](/images/mentor_naeem.jpg){: .align-left} Naeem lives and breathes CFD and is a voracious reader.
+![image-right](/images/mentor_naeem.jpg){: .align-right} Naeem lives and breathes CFD and is a voracious reader.
 
 Naeem joined IIT Madras as an MS(Research) student right after his undergraduation in aerospace engineering when he secured an AIR 19 in GATE(Aerospace), 2010. He worked with Prof. Sinha and has both academic and industrial experience of working in CFD. Naeem takes care of our CFD courses.
 
