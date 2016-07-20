@@ -24,7 +24,7 @@ Ikbal joined IIT Delhi as a Research Associate shortly after his undergraduate. 
 
 Senior UI/UX architect at BST Global(USA), Past Senior Designer at General Motors. MDes(Product Design and Engineering) from IISc Bangalore.
 
-![image-right](/images/mentor_lalit.jpg){: .align-right} Lalit loves to learn new things and is interested in all facets of design and engineering.
+![image-right](/images/mentor_lalit.png){: .align-right} Lalit loves to learn new things and is interested in all facets of design and engineering.
 
 Lalit joined IISc as an MDes student after working 2 years post his undergraduate in mechanical engineering. He worked in all the design divisions of General Motors India Design Division and has spent time in GM Technical Centre Warren too. He is now a Senior UI/UX architect at BST global where he works on human-machine interfaces thus making software more usable for end-users. Lalit shares his love of mechanism design and product design as a mentor in our programs.
 
