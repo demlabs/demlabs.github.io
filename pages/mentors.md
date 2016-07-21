@@ -52,11 +52,11 @@ Naeem joined IIT Madras as an MS(Research) student right after his undergraduati
 
 ## Amardeep Singh
 
-Director - Simuli Engineering Solution Pvt Ltd. MSs(Engg) in FEA from IISc Bangalore
+Director - Simuli Engineering Solution Pvt Ltd. MSc(Engg) in FEA from IISc Bangalore
 
 ![image-left](/images/mentor_amardeep.jpg){: .align-left} Amardeep is an entrepreneur who enjoy research.
 
-Amardeep joined IISc as an MSc(Engg) student after his undergraduation. He worked in FEA and specializes in crash and safety simulations of auomobiles. He founded Simuli Engineering Solution during his last stint at IISc and has been working with different facets of engineering design. Amardeep is our FEA guy.
+Amardeep joined IISc as an MSc(Engg) student after his undergraduation. He worked in FEA and specializes in crash and safety simulations of automobiles. He founded Simuli Engineering Solution during his last stint at IISc and has been working with different facets of engineering design. Amardeep is our FEA guy.
 
 [LinkedIn](https://www.linkedin.com/in/amardeep-singh-95927a40) [CV](https://demlabs.github.io/pdf/amardeep_s.pdf)
 
