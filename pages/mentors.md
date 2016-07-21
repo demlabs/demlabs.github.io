@@ -32,9 +32,9 @@ Lalit joined IISc as an MDes student after working 2 years post his undergraduat
 
 ## Dr Stuti Borgohain
 
-Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, PhD(Math) from Gauhati University
+Post Doctoral Fellow, NBHM (DAE, GoI) at IIT Bombay, Past Women Scientist-A (DST) in Maths Dept, IIT Bombay. PhD(Math) from Gauhati University
 
-![image-left](/images/mentor_stuti.jpg){: .align-left} Stuti works with pura mathematics and loves rigorous proofs.
+![image-left](/images/mentor_stuti.jpg){: .align-left} Stuti works with pure mathematics and loves rigorous proofs.
 
 Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis. She shares her perspectives on working on research projects as a mentor. Her extensive experience in rigorous academic research is unparalleled and she takes care of our perspectives on how to do research and be productive.
 
@@ -42,11 +42,11 @@ Stuti Borgohain is a post-doctoral fellow at IIT Bombay working on Pure Analysis
 
 ## Naeem Khan
 
-Senior Engineer at General Motors. MS by Research(Aero) from IIT Madras
+Senior Engineer at General Motors. MS by Research(Mechanical, Combustion and CFD) from IIT Madras
 
 ![image-right](/images/mentor_naeem.jpg){: .align-right} Naeem lives and breathes CFD and is a voracious reader.
 
-Naeem joined IIT Madras as an MS(Research) student right after his undergraduation in aerospace engineering when he secured an AIR 19 in GATE(Aerospace), 2010. He worked with Prof. Sinha and has both academic and industrial experience of working in CFD. Naeem takes care of our CFD courses.
+Naeem joined IIT Madras as an MS(Research) student right after his undergraduation in aerospace engineering when he secured an AIR 65 in GATE(Aerospace), 2010. He worked with Prof. V Raghavan and has both academic and industrial experience of working in CFD. Naeem takes care of our CFD courses.
 
 [LinkedIn](https://in.linkedin.com/in/naeemkhan88) [CV](https://demlabs.github.io/pdf/naeem_k.pdf)
 
@@ -80,3 +80,13 @@ Joining MIT Sloan School of Management as MBA candidate. Past Senior Engineer at
 Sailesh joined General Motors as a Crash Safety Simulation Engineer right after his integrated MTech in Mechanical Engineering and Engineering Design from IIT Madras. He has worked in numerous projects ranging from engineering design to safety drive management in Chevrolet. He shares his perspectives on product development and management science with our students.
 
 [LinkedIn](https://www.linkedin.com/in/sailesh-kolachana-321a8936) [CV](https://demlabs.github.io/pdf/sailesh_k.pdf)
+
+## Siddharth Pantoji
+
+Pursuing MS Aeronautics and Astronautics at Purdue University. BTech(Mech) from Pune University.
+
+![image-right](/images/mentor_siddharth.jpg){: .align-right} Siddharth is an avid scalemodeller, aeromodeller and a military aviation and technology enthusiast. He loves reading non-fiction and going to beautiful locations on his fancy KTM bike with his group of equally nerdy friends.
+
+Siddharth's BTech final year project at National Centre for Radio Astrophysics – Tata Institute of Fundamental Research involved design and manufacturing a 2.5 ton payload Aerial Work Platform. The project received 1 million+ rupees in funding and was later commissioned for a radio telescope. After graduating, Siddharth chose to work on a project involving welding metallurgy-mechanical properties relationship at Walchandnagar Industries Limited over a campus placement job in an automotive MNC. Siddharth learnt about industry grade FEA and CFD simulations while working for ZuesNumerix - a private RnD firm. Siddharth was awarded ‘Student of the Year’ by his college for maintaining a good balance of academics and co-curricular activities. His team won thousands of rupees in national level technical competitions including the best design award for a glider making contest at IIT Bombays Techfest. Siddharth advises on graduate admissions and computation modeling fundamentals for our students.
+
+[LinkedIn](https://www.linkedin.com/in/siddharthpantoji) [CV](https://demlabs.github.io/pdf/sidddharth_k.pdf)
