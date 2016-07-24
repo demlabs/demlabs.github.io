@@ -73,7 +73,7 @@ Harish is an expert in project management, and specializes in construction proje
 
 ## Sailesh Kolachana
 
-Joining MIT [Center of Transportation and Logistics](http://ctl.mit.edu/education/masters_programs) as masters' candidate. Past Senior Engineer at General Motors. MTech/BTech(Integrated/Engineering Design - Mechanical Engineering) from IIT Madras
+Joining MIT [Center of Transportation and Logistics](http://ctl.mit.edu/education/masters_programs) as masters' candidate in MIT-Zaragoza Logistics (ZLOG) Program. Past Senior Engineer at General Motors. MTech/BTech(Integrated/Engineering Design - Mechanical Engineering) from IIT Madras
 
 ![image-left](/images/mentor_sailesh.jpg){: .align-left} Sailesh has worked with both technical and managerial side of product design.
 
