@@ -69,6 +69,6 @@ Our Vision and mission is to empower students to realize and achieve their dream
 
 **Arup Kumar Deka** [ [LinkedIn](https://in.linkedin.com/in/arup-kumar-deka-8a599297) / [Facebook](https://www.facebook.com/arupkumar.deka.391/) ]
 
-![image-left](/images/founder_arup.png){: .align-left} Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of Asomiya Pratidin. 
+![image-left](/images/founder_arup.png){: .align-left} Mr. Arup Kumar Deka is the Career Counsellor and Career Columnist of [Asomiya Pratidin](http://asomiyapratidin.in/). 
 
 He has facilitated the growth and development of over 10,000 students and aspirants till date. He has taken more than 100 (approx) workshops in various schools, colleges and educational institutes. He provides his services as a career counsellor in various reputed schools, colleges and training institutes. His articles are regularly published in various News Papers, Magazines and gives his presentations and interviews in various TV shows.
