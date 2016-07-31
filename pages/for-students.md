@@ -20,6 +20,7 @@ They man a huge family of unfocused species known as the Engineers, residing wit
 - Zeus Numerix Pvt Ltd, Pune
 - Comsol India, Bangalore
 - Ansys India, Pune
+- Altair Engineering, Bangalore
 
 #### Tier-2 and Tier-3 Companies
 - L&T IES
@@ -28,8 +29,6 @@ They man a huge family of unfocused species known as the Engineers, residing wit
 - Infosys
 - EaSi(Alegis group)
 - CSG
-- Altair Engineering
-- 
 
 ### Free Resources to Learn Product Development
 
