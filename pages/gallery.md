@@ -11,6 +11,8 @@ DEM Labs has offered courses in various institutions under different capacity. H
 ### NIT Silchar
 This short duration (4 hours, 2 sessions) workshop was organized by ASME NIT Silchar Chapter in January, 2016. This course covered a composite content of product development, FEA, CFD, and technical career opportunities.
 
+![image-center](/images/gallery_nitsilchar_001.jpg){: .align-center}
+
 ###### Testimonials
 
 The best thing about the workshop was
