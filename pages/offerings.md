@@ -4,7 +4,7 @@ title: What Do We Offer
 permalink: /offerings/
 ---
 
-We **offer workshops** on new product development using computational tools such as finite element analysis, CAD, and computational fluid dynamics etc. and also **offer assistance in Btech/MTech projects**. Our courses are customized for a specific audience to tune them as per their expectation and understanding. This is what differentiates us from just another workshop organizing company. We also offer perspectives on building a career in product development.
+We **offer workshops** on new product development using computational tools such as finite element analysis, CAD, and computational fluid dynamics etc. and also **offer assistance in BTech/MTech projects**. Our courses are customized for a specific audience to tune them as per their expectation and understanding. This is what differentiates us from just another workshop organizing company. We also offer perspectives on building a career in product development.
 
 We are backed by experts from all walks of elite pedigree, be it industry or academia. 
 
