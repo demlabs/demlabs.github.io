@@ -37,6 +37,20 @@ The syllabus is given below. Demo of processes along with audience participation
 ###### Course duration
 > 8-10 hours. Based on pre-workshop feedback and specific requirements, this course can be compressed to 4 hours or expanded to 16 hours.
 
+### How to Prepare for [GATE2017](http://gate.iitr.ernet.in/)
+
+This workshop details about the complete process and preparation for GATE for all engineering branches.
+
+###### Syllabus:
+
+> Filling up forms, career avenues after GATE, question papers analysis, information about institutions, research and course program admissions, preparation tips, mark securing tactics, exam taking strategies, reference materials, coaching requirements
+
+###### Intended audience
+
+> BTech students in engineering, MSc students in science, BDes students, BArch students
+
+###### Course duration
+> 2-3 hours. 
 
 ### Practical Finite Element Analysis Bootcamp
 
