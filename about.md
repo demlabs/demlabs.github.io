@@ -58,6 +58,30 @@ Brainstorming about these issues tell us that, many of these issues can be solve
 
 ![image-center](http://www.aspiringminds.com/sites/default/files/new%20collage%20copy_0.jpg){: .align-center}
 
+## What do students get out of us?
+
+- Learn about technical career paths for mechanical engineers
+- Learn about skills necessary to pursue technical career paths
+- Learn about higher study (ME/MTech/PhD/Training Programs) after BE/BTech that helps in pursuing these technical paths
+- Learn about building engineeering products from experienced people holding patents and research publications
+- Learn about industry from industry veterans
+- Learn about pursuing research during BE/BTech
+- Learn about participating in technical competitions, many of which lead to great jobs in industry
+- Learn about creating your own projects and engineering design portfolio
+- Learn about placement scenario and processes of top mechanical engineering organizations
+- Learn about admission processes, academic details, and strengths of elite educational institutions in India and abroad
+- Learn about preparing for entrance examinations such as GATE/GRE/TOEFL/IELTS/GMAT
+- Learn about studying abroad
+- Receive guidance for BTech projects from our club of mentors
+
+In short, holistic technical career guidance from people who have experienced it all.
+
+## What do institutions get out of us?
+
+- Opportunity for collaboration with industry
+- Opportunity for exposing their students to the engineering industry
+- Opportunity for exposure in national and international forums through their students
+
 ## Information about our parent company
 
 DEM Labs is a product offering from Vidyarthi Point. [Vidyarthi Point](http://vidyarthipoint.com/en/), North East's First Largest Student Community and Career Guidance Platform, is an educational organization which has been working in the field of career guidance for the last 7 years. The organization mainly focuses on helping students in all career related aspects like choosing right career, career planning and development etc. in a systematic and scientific way. Besides it supports the students in leading a successful career by proper guidance and motivation. Our strong database of information and knowledge is backed up by constant research, thus providing students with the most up-to- date information possible.
