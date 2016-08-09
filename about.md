@@ -62,6 +62,7 @@ Brainstorming about these issues tell us that, many of these issues can be solve
 
 - Learn about technical career paths for mechanical engineers
 - Learn about skills necessary to pursue technical career paths
+- Learn about cutting-edge tools and techniques used in industry and ways to learn about them
 - Learn about higher study (ME/MTech/PhD/Training Programs) after BE/BTech that helps in pursuing these technical paths
 - Learn about building engineeering products from experienced people holding patents and research publications
 - Learn about industry from industry veterans
