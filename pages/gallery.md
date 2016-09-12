@@ -9,6 +9,10 @@ DEM Labs has offered courses in various institutions under different capacity. H
 ## IISc Bangalore
 This workshop detailed upon the visualization, presentation, and storytelling of the design process. This was a special course for MDes students to help them in preparation of product portfolio for industry. A demo presentation of the same can downloaded from [here](https://github.com/demlabs/demlabs.github.io/blob/master/docs/doc_iisc_20160912.pdf) sans the commentary.
 
+![image-center](/images/gallery_iiscb_001.jpg){: .align-center}
+
+This workshop was a 3-hours duration one.
+
 ### Testimonials
 Really good presentation
 
