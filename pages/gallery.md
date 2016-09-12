@@ -4,8 +4,6 @@ title: Past Courses
 permalink: /gallery/
 ---
 
-# Details of past courses
-
 DEM Labs has offered courses in various institutions under different capacity. Here are the details of a few courses.
 
 ## IISc Bangalore
