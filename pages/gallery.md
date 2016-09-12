@@ -4,22 +4,22 @@ title: Past Courses
 permalink: /gallery/
 ---
 
-## Details of past courses
+# Details of past courses
 
 DEM Labs has offered courses in various institutions under different capacity. Here are the details of a few courses.
 
-### IISc Bangalore
+## IISc Bangalore
 This workshop detailed upon the visualization, presentation, and storytelling of the design process. This was a special course for MDes students to help them in preparation of product portfolio for industry. A demo presentation of the same can downloaded from [here](https://github.com/demlabs/demlabs.github.io/blob/master/docs/doc_iisc_20160912.pdf) sans the commentary.
 
-###### Testimonials
+### Testimonials
 Really good presentation
 
-### NIT Silchar
+## NIT Silchar
 This short duration (4 hours, 2 sessions) workshop was organized by ASME NIT Silchar Chapter in January, 2016. This course covered a composite content of product development, FEA, CFD, and technical career opportunities.
 
 ![image-center](/images/gallery_nitsilchar_001.jpg){: .align-center}
 
-###### Testimonials
+### Testimonials
 
 The best things about the workshop were {everything, content and presentation, career scope presented, real life examples of good and bad design, motivation to learn software and its value in industries, the zeal that was imbibed to take up Computational Analysis/Mechanics as a career option, different avenues for learning stuffs, the workshop holds the ability to intrigue imagination in one's mind, the information about different the softwares used by mechanical engineers to do their jobs, presenter was quite good  and his way of presenting is lucid.}
 
