@@ -1,4 +1,4 @@
-# Minimal Mistakes Jekyll Theme
+# DEM Labs website with Minimal Mistakes Jekyll Theme
 
 https://mmistakes.github.io/minimal-mistakes/
 
