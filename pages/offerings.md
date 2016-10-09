@@ -4,7 +4,33 @@ title: What Do We Offer
 permalink: /offerings/
 ---
 
-We **offer workshops** on new product development using computational tools such as finite element analysis, CAD, and computational fluid dynamics etc. and also **offer assistance in BTech/MTech projects**. Our courses are customized for a specific audience to tune them as per their expectation and understanding. This is what differentiates us from just another workshop organizing company. We also offer perspectives on building a career in product development.
+## Internships
+We also offer summer/winter internships for students. This will constitute of rigorous research and problem solving with assistance from multiple mentors. Some salient features of this will be
+
+- Rigorous tool training
+- Research with collaboration
+- Techniques of research
+
+### Winter Intership during winter 2016 at Guwahati
+We are offering an internship on **COMPUTATIONAL ENGINEERING DESIGN** at Guwahati this winter 2016. We will be offering a curriculum on product development using computational tools and techniques. A brief look into the curriculum is:
+
+- Engineering design and product development
+- How to design **self-driving cars, walking robots, and automobiles**
+- Design thinking
+- Computational engineering design
+- CAD/CAM/CAE
+- CAD/CAM using design software
+- CAE techniques - FEM/CFD/Statistical Design/Optimization/Multibody Dynamics
+- CAE tools and software
+- Project I (Designing with Engineering Details)
+- Project II (Stress Analysis)
+- Project III (Optimization)
+- Project IV (Multibody Dynamics)
+- Engineering portfolio development
+- Lecture series on engineering product design, entrepreneurship, and design thinking
+
+## Our Offerings
+We **offer workshops, trainings, and internships** on new product development using computational tools such as finite element analysis, CAD, and computational fluid dynamics etc. and also **offer assistance in BTech/MTech projects**. Our courses are customized for a specific audience to tune them as per their expectation and understanding. This is what differentiates us from just another workshop organizing company. We also offer perspectives on building a career in product development.
 
 We are backed by experts from all walks of elite pedigree, be it industry or academia. 
 
@@ -105,7 +131,7 @@ Details of this course will be available shortly.
 
 Details of this course will be available shortly.
 
-## Internships/Project Assistance
+## Project Assistance
 
 We are planning to offer summer/winter internships for students as well as assistance in carrying out major/final year projects. This will constitute of rigorous research and problem solving with assistance from multiple mentors. Some salient features of this will be
 - Rigorous tool training
