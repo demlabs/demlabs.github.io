@@ -14,7 +14,7 @@ We also offer summer/winter internships for students. This will constitute of ri
 ### Winter Intership during winter 2016 at Guwahati
 We are offering an internship on **COMPUTATIONAL ENGINEERING DESIGN** at Guwahati this winter 2016. We will be offering a curriculum on product development using computational tools and techniques. 
 
-![image-center](images/Poster_Internship.JPG){: .align-center}
+![image-center](/images/Poster_Internship.JPG){: .align-center}
 
 A brief look into the curriculum is:
 
